@@ -32,7 +32,7 @@ I curated a dataset of **20 High-Risk Prompts** across 5 categories:
 * `jailbreak_analysis.md`: A detailed breakdown of *why* specific attacks succeeded or failed.
 
 ## 🔗 Live Implementation
-This project follows the **Deccan AI** guidelines for multi-modal evaluation and critical reasoning.
+This project follows the guidelines for multi-modal evaluation and critical reasoning.
 
 ---
 *Created by Sarthak*
